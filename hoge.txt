@@ -1,0 +1,4 @@
+
+this file is hoge
+not ignored
+not ok
